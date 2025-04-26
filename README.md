@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Chessboard](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chess_Board.svg/600px-Chess_Board.svg.png)
+``` :contentReference[oaicite:1]{index=1}
+::contentReference[oaicite:2]{index=2}
+```
+
 
 ---
 <!-- Dynamic Animated Header -->
