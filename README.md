@@ -52,9 +52,9 @@ I speak **binary** fluently—sometimes I only program the 0s!
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=PanagiotisKotsorgios&theme=radical&border_radius=4.6)
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKotsorgios&show_icons=true&theme=radical&include_all_commits=true)
   
-  [![trophy](https://github-profile-trophy.vervis.xyz/?username=YOUR_USERNAME&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vervis.xyz/?username=PanagiotisKotsorgios&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
