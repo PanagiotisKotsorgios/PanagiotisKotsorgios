@@ -75,3 +75,44 @@ pie title Weekly Development Breakdown
     "Designing" : 20
     "Research" : 15
     "Meetings" : 5
+```
+
+
+
+<!-- PROJECT SHOWCASE -->
+🚀 Featured Creations
+Project	Description	Tech Stack	Demo
+Cloud Dashboard	Real-time infrastructure monitoring	AWS React GraphQL	Live Demo
+E-Commerce API	Microservices architecture	Node.js MongoDB Redis	Docs
+<!-- SOCIAL LINKS -->
+🌐 Let's Collaborate
+<div align="center">
+
+LinkedIn
+Twitter
+Dev.to
+Hashnode
+</div><!-- FUN SECTION -->
+⚡️ Code & Coffee
+<div align="center">
+
+Lines of Code
+Code Time
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
+javascript
+
+const develop = async () => {
+  while(true) {
+    await code();
+    drinkCoffee();
+    debug();
+  }
+}
+
+</div><!-- FOOTER --><div align="center">
+
+Profile Views
+GitHub Followers
+
+"First, solve the problem. Then, write the code." - John Johnson
+</div> 
