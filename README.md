@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-> “A well-played game of chess is a sign of a gentleman. <br>&nbsp;
+> “A well-played game of chess is a sign of a gentleman.<br>
 >  A perfectly played one is a sign of a wasted life.”
 
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
