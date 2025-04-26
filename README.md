@@ -21,8 +21,8 @@ I speak **binary** fluently—sometimes I only program the 0s!
 ---
 
 
-## - A well-played game of chess is a sign of a gentleman. 
-## - A perfectly played one is a sign of a wasted life.
+## - `A well-played game of chess is a sign of a gentleman`. 
+## - `A perfectly played one is a sign of a wasted life`.
 
 
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
