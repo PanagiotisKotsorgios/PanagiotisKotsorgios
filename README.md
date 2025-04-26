@@ -20,11 +20,6 @@ I speak **binary** fluently—sometimes I only program the 0s!
 
 ---
 
-> *"Writing your README first is like setting a mission statement for your code."*  
-> —Tom Preston-Werner, GitHub co-founder&#8203;:contentReference[oaicite:5]{index=5}
-
-
-
 
 > “A well-played game of chess is a sign of a gentleman.”<br>
 > “A perfectly played one is a sign of a wasted life.”
