@@ -18,7 +18,7 @@
 
 
 ### 😄 Pronouns  
-He/Him  
+PEAK MALE
 
 ### ⚡ Fun Fact  
 I speak **binary** fluently—sometimes I only program the 0s!  
