@@ -15,64 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <!-- Rank 8 -->
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/75px-Chess_rdt45.svg.png" alt="♜" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/75px-Chess_ndt45.svg.png" alt="♞" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/75px-Chess_bdt45.svg.png" alt="♝" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/75px-Chess_qdt45.svg.png" alt="♛" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/75px-Chess_kdt45.svg.png" alt="♚" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/75px-Chess_bdt45.svg.png" alt="♝" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/75px-Chess_ndt45.svg.png" alt="♞" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/75px-Chess_rdt45.svg.png" alt="♜" width="45" height="45"/></td>
-  </tr>
-  <!-- Rank 7 -->
-  <tr>
-    <td colspan="8" style="text-align: center;">
-      <!-- eight black pawns -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/75px-Chess_pdt45.svg.png" alt="♟" width="45" height="45"/>
-    </td>
-  </tr>
-  <!-- Ranks 6–3 (empty) -->
-  <tr><td colspan="8" style="height: 45px;"></td></tr>
-  <tr><td colspan="8" style="height: 45px;"></td></tr>
-  <tr><td colspan="8" style="height: 45px;"></td></tr>
-  <tr><td colspan="8" style="height: 45px;"></td></tr>
-  <!-- Rank 2 -->
-  <tr>
-    <td colspan="8" style="text-align: center;">
-      <!-- eight white pawns -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/75px-Chess_plt45.svg.png" alt="♙" width="45" height="45"/>
-    </td>
-  </tr>
-  <!-- Rank 1 -->
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/75px-Chess_rlt45.svg.png" alt="♖" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/75px-Chess_nlt45.svg.png" alt="♘" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/75px-Chess_blt45.svg.png" alt="♗" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/75px-Chess_qlt45.svg.png" alt="♕" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/75px-Chess_klt45.svg.png" alt="♔" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/75px-Chess_blt45.svg.png" alt="♗" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/75px-Chess_nlt45.svg.png" alt="♘" width="45" height="45"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/75px-Chess_rlt45.svg.png" alt="♖" width="45" height="45"/></td>
-  </tr>
-</table>
 
+## 🎮 Current Board State  
+|   | A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|---|
+| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| **6** |   |   |   |   |   |   |   |   |
+| **5** |   |   |   |   |   |   |   |   |
+| **4** |   |   |   |   |   |   |   |   |
+| **3** |   |   |   |   |   |   |   |   |
+| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+---
 
 
 ---
