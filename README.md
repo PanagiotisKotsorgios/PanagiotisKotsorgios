@@ -1,19 +1,34 @@
-## Hi there 👋
+## 👋 Hello, I’m Panagiotis Kotsorgios  
+**Full-Stack Developer** with expertise in modern web design, low-level systems, and open-source contributions.  
 
-<!--
-**PanagiotisKotsorgios/PanagiotisKotsorgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Current Focus  
+🏗️ Designing **responsive**, **accessibile** web interfaces with React and Tailwind CSS.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m Learning  
+🛠️ Building **robust** back-ends using **Laravel**, exploring advanced PHP paradigms and RESTful API design.  
+
+### 👯 Let’s Collaborate  
+💼 Open to **team-driven** projects—especially those involving microcontrollers, Linux-based systems, or full-stack web apps.  
+
+### 📫 How to Reach Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-username)  
+
+### 😄 Pronouns  
+He/Him  
+
+### ⚡ Fun Fact  
+I speak **binary** fluently—sometimes I only program the 0s!  
+
+---
+
+> *"Writing your README first is like setting a mission statement for your code."*  
+> —Tom Preston-Werner, GitHub co-founder&#8203;:contentReference[oaicite:5]{index=5}
+
+
 
 
 > “A well-played game of chess is a sign of a gentleman.”<br>
