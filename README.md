@@ -132,10 +132,9 @@
 <div align="center">
 
 _"What I cannot create, I do not understand" - Richard Feynman_  
-⚡ Made with [Obsidian](https://obsidian.md/) • 🧪 Tested with [Jest](https://jestjs.io/) • 🚀 Deployed with [Vercel](https://vercel.com/)
 
-![Snake animation](https://github.com/PanagiotisKotsorgios/PanagiotisKotsorgios/blob/output/github-contribution-grid-snake.svg)
 
+<img src = "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/07/2024-richard-feynman-767x410-1.png">
 </div>
 
 
