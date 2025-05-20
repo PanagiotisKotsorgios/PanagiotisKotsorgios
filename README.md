@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 Philosophy & Workflow
+### 🧠 Philosophy & Workflow
 
 <div align="center">
   
