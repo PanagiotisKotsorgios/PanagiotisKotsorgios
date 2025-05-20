@@ -18,8 +18,7 @@
 
 
 ### 📫 How to Reach Me  
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/yourusername)  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/yourusername)  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:you@example.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.site)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/yourusername)  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/yourusername)  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:you@example.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?logo=linkedin)](https://linkedin.com/in/yourusername)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.site)  
 
 ### ⚡ Fun Fact  
 I speak **binary** fluently—sometimes I only program the 0s!  
