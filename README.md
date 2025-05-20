@@ -2,8 +2,6 @@
 
 ---
 
-### 🧠 Philosophy & Workflow
-
 <div align="center">
   
 [![Development Principles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Code+is+poetry%22+-+WordPress+Automattic;%22Simplicity+is+the+soul+of+efficiency%22+-+Austin+Freeman)](https://git.io/typing-svg)
