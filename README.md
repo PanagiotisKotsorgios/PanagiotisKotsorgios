@@ -1,6 +1,19 @@
 ## 👋 Hello, I’m Panagiotis  
 
 ---
+
+## 🧠 Philosophy & Workflow
+
+<div align="center">
+  
+[![Development Principles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Code+is+poetry%22+-+WordPress+Automattic;%22Simplicity+is+the+soul+of+efficiency%22+-+Austin+Freeman)](https://git.io/typing-svg)
+
+
+</div>
+
+
+---
+
 <div align="left">
 
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQxN3B1c2d6a3pmczZyamozZzB5MjhvOXpwM3B5ZGlscGVnZ3I1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAmKaqr4xMuUE/giphy.gif">
@@ -76,18 +89,6 @@
 ## 📈 Coding Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKotsorgios&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
-## 🧠 Philosophy & Workflow
-
-<div align="center">
-  
-[![Development Principles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Code+is+poetry%22+-+WordPress+Automattic;%22Simplicity+is+the+soul+of+efficiency%22+-+Austin+Freeman)](https://git.io/typing-svg)
-
-
-</div>
 
 ---
 
