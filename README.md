@@ -4,7 +4,7 @@
 ---
 <div align="center">
 
-[![V for Vendetta Mask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Guy_Fawkes_Mask.svg/1200px-Guy_Fawkes_Mask.svg.png)](https://en.wikipedia.org/wiki/V_for_Vendetta):cite[1]:cite[3]
+<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQxN3B1c2d6a3pmczZyamozZzB5MjhvOXpwM3B5ZGlscGVnZ3I1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAmKaqr4xMuUE/giphy.gif">
 
 > **"Beneath this mask there is more than flesh.**  
 > **Beneath this mask there is an idea, Mr. Creedy.**  
@@ -20,10 +20,6 @@
 
 ---
 
-### 🔍 More About V
-- **Origin**: From Alan Moore's revolutionary graphic novel [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) :cite[1]
-- **Symbolism**: Represents anarchism vs fascism through Guy Fawkes imagery :cite[2]:cite[7]
-- **Legacy**: Adopted by digital activists worldwide as a symbol of protest :cite[4]:cite[7]
 
 
 
