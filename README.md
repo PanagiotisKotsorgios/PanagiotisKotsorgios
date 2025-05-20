@@ -106,7 +106,7 @@
 [![Stack Overflow](https://img.shields.io/badge/My_QA-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Contest%20Rating%202000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
-[![CodeWars Rank](https://www.codewars.com/users/yourprofile/badges/micro)](https://www.codewars.com/users/yourprofile)
+[![CodeWars Rank](https://www.codewars.com/users/PanagiotisKotsorgios/badges/micro)](https://www.codewars.com/users/PanagiotisKotsorgios)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5★_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
 
 </div>
