@@ -97,8 +97,8 @@
 ### 👨💻 Coding Profiles
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourprofile?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/yourprofile/)
-[![HackerRank Stats](https://github-readme-hackerrank-stats.vercel.app/api?username=yourprofile&theme=dark)](https://www.hackerrank.com/yourprofile)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourprofile?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/Panagiotis_Kotsorgios/)
+[![HackerRank Stats](https://github-readme-hackerrank-stats.vercel.app/api?username=yourprofile&theme=dark)](https://www.hackerrank.com/pkotsorgios654)
 
 </div>
 
