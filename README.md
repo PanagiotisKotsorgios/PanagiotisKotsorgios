@@ -2,15 +2,31 @@
 **Full-Stack Developer** with expertise in modern web design, low-level systems, and open-source contributions.  
 
 ---
+<div align="center">
 
-### 🔭 Current Focus  
-🏗️ Designing **responsive**, **accessibile** web interfaces with React and Tailwind CSS.  
+[![V for Vendetta Mask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Guy_Fawkes_Mask.svg/1200px-Guy_Fawkes_Mask.svg.png)](https://en.wikipedia.org/wiki/V_for_Vendetta):cite[1]:cite[3]
 
-### 🌱 I’m Learning  
-🛠️ Building **robust** back-ends using **Laravel**, exploring advanced PHP paradigms and RESTful API design.  
+> **"Beneath this mask there is more than flesh.**  
+> **Beneath this mask there is an idea, Mr. Creedy.**  
+> **And ideas are bulletproof."**
+> 
+> ― <cite>V, _V for Vendetta_</cite>  
+> 🎭 ⚡ 🔥
 
-### 👯 Let’s Collaborate  
-💼 Open to **team-driven** projects—especially those involving microcontrollers, Linux-based systems, or full-stack web apps.  
+[![Sparkles](https://img.shields.io/badge/Philosophy-Bulletproof_Ideas-important)](https://www.goodreads.com/quotes/102108-behind-this-mask-there-is-more-than-just-flesh-beneath)  
+[![Counter](https://img.shields.io/badge/Adapted_From-Alan_Moore%27s_graphic_novel-blue)](https://en.wikipedia.org/wiki/V_for_Vendetta)
+
+</div>
+
+---
+
+### 🔍 More About V
+- **Origin**: From Alan Moore's revolutionary graphic novel [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) :cite[1]
+- **Symbolism**: Represents anarchism vs fascism through Guy Fawkes imagery :cite[2]:cite[7]
+- **Legacy**: Adopted by digital activists worldwide as a symbol of protest :cite[4]:cite[7]
+
+
+
 
 ### 📫 How to Reach Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-username)  
