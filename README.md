@@ -1,5 +1,4 @@
-## 👋 Hello, I’m Panagiotis Kotsorgios  
-**Full-Stack Developer** with expertise in modern web design, low-level systems, and open-source contributions.  
+## 👋 Hello, I’m Panagiotis  
 
 ---
 <div align="center">
