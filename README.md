@@ -88,14 +88,22 @@
 
 ---
 
-<!-- Activity Graph -->
+<div align =   "center">
+  
 ## 📈 Coding Activity
+
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKotsorgios&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
+<div align =   "center">
+  
 ### 👨💻 Coding Profiles
+
+</div>
+
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Panagiotis_Kotsorgios?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/u/Panagiotis_Kotsorgios/)
@@ -115,7 +123,13 @@
 
 </div>
 
+
+<div align =   "center">
+  
 ### 🏆 Competitive Platforms
+
+</div>
+
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
