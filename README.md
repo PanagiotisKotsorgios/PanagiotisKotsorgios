@@ -9,9 +9,8 @@
 > **"Beneath this mask there is more than flesh.**  
 > **Beneath this mask there is an idea, Mr. Creedy.**  
 > **And ideas are bulletproof."**
-> 
-> ― <cite>V, _V for Vendetta_</cite>  
-> 🎭 ⚡ 🔥
+
+
 
 [![Sparkles](https://img.shields.io/badge/Philosophy-Bulletproof_Ideas-important)](https://www.goodreads.com/quotes/102108-behind-this-mask-there-is-more-than-just-flesh-beneath)  
 [![Counter](https://img.shields.io/badge/Adapted_From-Alan_Moore%27s_graphic_novel-blue)](https://en.wikipedia.org/wiki/V_for_Vendetta)
