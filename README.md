@@ -45,6 +45,10 @@
 
 </div>
 
+
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=react,react,61DAFB;typescript,typescript,3178C6;&line2=node.js,node.js,339933;postgresql,postgresql,4169E1)](https://github-readme-tech-stack.vercel.app/)
+
 ---
 
 <!-- Tech Stack Section -->
