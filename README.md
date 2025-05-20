@@ -78,41 +78,55 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKotsorgios&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+---
 
-<!-- PROJECT SHOWCASE -->
-🚀 Featured Creations
-Project	Description	Tech Stack	Demo
-Cloud Dashboard	Real-time infrastructure monitoring	AWS React GraphQL	Live Demo
-E-Commerce API	Microservices architecture	Node.js MongoDB Redis	Docs
-<!-- SOCIAL LINKS -->
-🌐 Let's Collaborate
+## 🧠 Philosophy & Workflow
+
+<div align="center">
+  
+[![Development Principles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Code+is+poetry%22+-+WordPress+Automattic;%22Simplicity+is+the+soul+of+efficiency%22+-+Austin+Freeman)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 📊 Activity & Metrics
+
 <div align="center">
 
-LinkedIn
-Twitter
-Dev.to
-Hashnode
-</div><!-- FUN SECTION -->
-⚡️ Code & Coffee
+[![GitHub Streak](https://streak-stats.demolab.com?user=PanagiotisKotsorgios&theme=github-dark&border_radius=4.6)](https://git.io/streak-stats)
+  
+[![Weekly Development Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=PanagiotisKotsorgios&layout=compact&theme=github_dark&custom_title=Weekly%20Development%20Breakdown)](https://wakatime.com/@PanagiotisKotsorgios)
+
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPanagiotisKotsorgios&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Code Time](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.code-time.dev%2Fshield%3Fid%3Dc543a210-3c88-4ad9-9dc6-4fe9a2a0c388)](https://code-time.dev)
+
+</div>
+
+---
+
+## 🚀 Quick Links
+
 <div align="center">
 
-Lines of Code
-Code Time
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
-javascript
+[![Resume](https://img.shields.io/badge/View_My-Resume-2BDE73?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/your-resume)
+[![Blog](https://img.shields.io/badge/Read_My-Blog-FF7139?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourblog)
+[![Stack Overflow](https://img.shields.io/badge/My_QA-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
-const develop = async () => {
-  while(true) {
-    await code();
-    drinkCoffee();
-    debug();
-  }
-}
+</div>
 
-</div><!-- FOOTER --><div align="center">
+---
 
-Profile Views
-GitHub Followers
+## 🌌 Cosmic Footer
 
-"First, solve the problem. Then, write the code." - John Johnson
-</div> 
+<div align="center">
+
+_"What I cannot create, I do not understand" - Richard Feynman_  
+⚡ Made with [Obsidian](https://obsidian.md/) • 🧪 Tested with [Jest](https://jestjs.io/) • 🚀 Deployed with [Vercel](https://vercel.com/)
+
+![Snake animation](https://github.com/PanagiotisKotsorgios/PanagiotisKotsorgios/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+
