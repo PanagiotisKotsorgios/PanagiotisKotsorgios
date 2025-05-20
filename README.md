@@ -50,39 +50,13 @@
 
 [![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&theme=github_dark&lineCount=4&line1=react,React,61DAFB;typescript,TypeScript,3178C6;tailwind-css,Tailwind%20CSS,06B6D4&line2=node.js,Node.js,339933;python,Python,3776AB;graphql,GraphQL,E10098&line3=postgresql,PostgreSQL,4169E1;mongodb,MongoDB,47A248&line4=aws,AWS,232F3E;docker,Docker,2496ED;github-actions,GitHub%20Actions,2088FF)](https://github-readme-tech-stack.vercel.app/)
 
-<table align="center">
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><b>Backend</b></td>
-    <td><b>Databases</b></td>
-    <td><b>DevOps & Cloud</b></td>
-  </tr>
-  <tr>
-    <!-- Frontend -->
-    <td>
-      ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-      ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
-    </td>
-    <!-- Backend -->
-    <td>
-      ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-      ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-      ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-    </td>
-    <!-- Databases -->
-    <td>
-      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-      ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-    </td>
-    <!-- DevOps -->
-    <td>
-      ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-      ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-      ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| **Frontend** | **Backend** | **Databases** | **DevOps & Cloud** |
+|--------------|-------------|---------------|--------------------|
+| <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" /> | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" /> |
+
+</div>
 
 ---
 
