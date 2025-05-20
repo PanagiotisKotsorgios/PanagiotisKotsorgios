@@ -75,6 +75,7 @@
   ### **Additional Expertise**
 
 </div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" />
