@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Panagiotis  
+# 👋 Hello, I’m Panagiotis  
 
 ---
 
