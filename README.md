@@ -86,20 +86,6 @@
   
 [![Development Principles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Code+is+poetry%22+-+WordPress+Automattic;%22Simplicity+is+the+soul+of+efficiency%22+-+Austin+Freeman)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 📊 Activity & Metrics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PanagiotisKotsorgios&theme=github-dark&border_radius=4.6)](https://git.io/streak-stats)
-  
-[![Weekly Development Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=PanagiotisKotsorgios&layout=compact&theme=github_dark&custom_title=Weekly%20Development%20Breakdown)](https://wakatime.com/@PanagiotisKotsorgios)
-
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPanagiotisKotsorgios&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Code Time](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.code-time.dev%2Fshield%3Fid%3Dc543a210-3c88-4ad9-9dc6-4fe9a2a0c388)](https://code-time.dev)
 
 </div>
 
