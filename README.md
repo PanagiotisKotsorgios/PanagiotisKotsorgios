@@ -24,29 +24,6 @@
 ### 📫 How to Reach Me  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/yourusername)  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/yourusername)  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:you@example.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?logo=linkedin)](https://linkedin.com/in/yourusername)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.site)  
 
-### ⚡ Fun Fact  
-I speak **binary** fluently—sometimes I only program the 0s!  
-
----
-
-
-## - `A well-played game of chess is a sign of a gentleman`. 
-## - `A perfectly played one is a sign of a wasted life`.
-
-
-|     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
-|:---:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| **8** | ♜     | ♞     | ♝     | ♛     | ♚     | ♝     | ♞     | ♜     |
-| **7** | ♟     | ♟     | ♟     | ♟     | ♟     | ♟     | ♟     | ♟     |
-| **6** |       |       |       |       |       |       |       |       |
-| **5** |       |       |       |       |       |       |       |       |
-| **4** |       |       |       |       |       |       |       |       |
-| **3** |       |       |       |       |       |       |       |       |
-| **2** | ♙     | ♙     | ♙     | ♙     | ♙     | ♙     | ♙     | ♙     |
-| **1** | ♖     | ♘     | ♗     | ♕     | ♔     | ♗     | ♘     | ♖     |
-
-
-
 
 ---
 <!-- Dynamic Animated Header -->
