@@ -54,11 +54,13 @@
 </div>
 
 
-
+<div align = "center">
 
 ## 🛠️ Tech Stack & Tools
 
 [![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Full%20Stack&theme=github_dark&lineCount=6&line1=react,React,61DAFB;next.js,Next.js,000000;typescript,TypeScript,3178C6;redux,Redux,764ABC&line2=node.js,Node.js,339933;python,Python,3776AB;java,Java,007396;graphql,GraphQL,E10098&line3=postgresql,PostgreSQL,4169E1;mongodb,MongoDB,47A248;redis,Redis,DC382D;mysql,MySQL,4479A1&line4=aws,AWS,232F3E;docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;terraform,Terraform,7B42BC&line5=github-actions,GitHub%20Actions,2088FF;jenkins,Jenkins,D24939;ansible,Ansible,EE0000&line6=sass,Sass,CC6699;figma,Figma,F24E1E;storybook,Storybook,FF4785)](https://github-readme-tech-stack.vercel.app/)
+
+</div>
 
 <div align="center">
 
