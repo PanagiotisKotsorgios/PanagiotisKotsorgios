@@ -7,9 +7,11 @@
 
 <br><br>
 
-> **"Beneath this mask there is more than flesh.**  
+> **"**
+> **Beneath this mask there is more than flesh.**  
 > **Beneath this mask there is an idea, Mr. Creedy.**  
-> **And ideas are bulletproof.🔥"**
+> **And ideas are bulletproof.🔥**
+> **"**
 
 </div>
 
