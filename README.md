@@ -115,6 +115,8 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
+[![HackerOne Stats](https://img.shields.io/badge/Reports_Submitted-42%20Vulnerabilities-FF5000?logo=hackerone)](https://hackerone.com/yourprofile)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Rank_%2342-FF9000?logo=bugcrowd)](https://bugcrowd.com/yourprofile)
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-844_Score-3B3B98?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/profile/yourprofile)
 [![CodeWars](https://img.shields.io/badge/Codewars-3_Kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/yourprofile)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
