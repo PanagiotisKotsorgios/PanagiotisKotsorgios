@@ -38,7 +38,7 @@
 <!-- Dynamic Animated Header -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-  <h1 align="center">🚀 Full-Stack Developer | Tech Geek</h1>
+  <h1 align="center">🚀 Just a Software Engineer | Tech Geek</h1>
 </div>
 
 
