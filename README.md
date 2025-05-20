@@ -126,8 +126,7 @@
 </div>
 
 ---
-
-## 🌌 Cosmic Footer
+<br><br><br>
 
 <div align="center">
 
