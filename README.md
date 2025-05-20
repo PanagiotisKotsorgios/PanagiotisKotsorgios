@@ -94,19 +94,34 @@
 
 ## 🚀 Quick Links
 
+### 👨💻 Coding Profiles
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourprofile?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/yourprofile/)
+[![HackerRank Stats](https://github-readme-hackerrank-stats.vercel.app/api?username=yourprofile&theme=dark)](https://www.hackerrank.com/yourprofile)
+
+</div>
+
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/View_My-Resume-2BDE73?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/your-resume)
 [![Blog](https://img.shields.io/badge/Read_My-Blog-FF7139?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourblog)
 [![Stack Overflow](https://img.shields.io/badge/My_QA-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Contest%20Rating%202000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
+[![CodeWars Rank](https://www.codewars.com/users/yourprofile/badges/micro)](https://www.codewars.com/users/yourprofile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
+
+</div>
+
+### 🏆 Competitive Platforms
+<div align="center">
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/yourprofile)
-[![CodeSignal](https://img.shields.io/badge/CodeSignal-3B3B98?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/profile/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/yourprofile)
-[![TopCoder](https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/yourprofile)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-844_Score-3B3B98?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/profile/yourprofile)
+[![CodeWars](https://img.shields.io/badge/Codewars-3_Kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![TopCoder](https://img.shields.io/badge/TopCoder-Blue_Rated-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/yourprofile)
 
 </div>
 
