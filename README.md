@@ -100,6 +100,14 @@
 [![Blog](https://img.shields.io/badge/Read_My-Blog-FF7139?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourblog)
 [![Stack Overflow](https://img.shields.io/badge/My_QA-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/yourprofile)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-3B3B98?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/profile/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/yourprofile)
+[![TopCoder](https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/yourprofile)
+
 </div>
 
 ---
