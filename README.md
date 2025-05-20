@@ -77,16 +77,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKotsorgios&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie title Weekly Development Breakdown
-    "Coding" : 35
-    "Debugging" : 25
-    "Designing" : 20
-    "Research" : 15
-    "Meetings" : 5
-```
-
 
 
 <!-- PROJECT SHOWCASE -->
