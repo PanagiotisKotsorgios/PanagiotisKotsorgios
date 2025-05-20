@@ -41,7 +41,7 @@
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKotsorgios&show_icons=true&theme=radical&include_all_commits=true)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=PanagiotisKotsorgios&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PanagiotisKotsorgios&theme=dark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
