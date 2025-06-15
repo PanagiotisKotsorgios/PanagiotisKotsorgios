@@ -19,7 +19,7 @@
 
 <br><br><br><br>
 
-[![committers.top badge](https://user-badge.committers.top/greece/PanagiotisKotsorgios.svg)](https://user-badge.committers.top/greece/PanagiotisKotsorgios)
+[![committers.top badge](https://user-badge.committers.top/greece/USERNAME.svg)](https://user-badge.committers.top/greece/PanagiotisKotsorgios)
 
 <br><br><br><br>
 
