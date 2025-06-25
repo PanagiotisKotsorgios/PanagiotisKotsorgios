@@ -65,38 +65,6 @@
 
 </div>
 
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/View_My-Resume-2BDE73?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/your-resume)
-[![Blog](https://img.shields.io/badge/Read_My-Blog-FF7139?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourblog)
-[![Stack Overflow](https://img.shields.io/badge/My_QA-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Contest%20Rating%202000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
-<!-- Shields.io Alternative -->
-[![Codewars](https://img.shields.io/badge/Codewars-3_Kyu-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/PanagiotisKotsorgios)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
-
-</div>
-
-
-<div align =   "center">
-  
-### 🏆 Competitive Platforms
-
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Active_Hacker-FF5000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/yourprofile)
-[![CodeSignal](https://img.shields.io/badge/CodeSignal-844_Score-3B3B98?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/profile/yourprofile)
-[![CodeWars](https://img.shields.io/badge/Codewars-3_Kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![TopCoder](https://img.shields.io/badge/TopCoder-Blue_Rated-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/yourprofile)
-
-</div>
-
----
 <br><br><br>
 
 <div align="center">
