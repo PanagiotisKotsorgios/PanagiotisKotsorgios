@@ -28,13 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/yourusername)  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://facebook.com/yourusername)  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:you@example.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?logo=linkedin)](https://linkedin.com/in/yourusername)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.site)  
 
 
----
-<!-- Dynamic Animated Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-  <h1 align="center">🚀 Just a Software Engineer | Tech Geek</h1>
-</div>
-
 
 
 ---
