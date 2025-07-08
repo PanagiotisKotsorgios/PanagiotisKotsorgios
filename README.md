@@ -55,13 +55,7 @@
 
 </div>
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Panagiotis_Kotsorgios?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/u/Panagiotis_Kotsorgios/)
-
-</div>
-
-<br><br><br>
+<br><br>
 
 <div align="center">
 
