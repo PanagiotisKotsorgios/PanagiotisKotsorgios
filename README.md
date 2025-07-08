@@ -20,10 +20,6 @@
 <br>
 
 
-[![committers.top badge](https://user-badge.committers.top/greece_private/PanagiotisKotsorgios.svg)](https://user-badge.committers.top/greece_private/PanagiotisKotsorgios)
-<br><br>
-
-
 
 
 
