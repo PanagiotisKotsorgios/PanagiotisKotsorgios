@@ -37,13 +37,7 @@
 
 ---
 
-<div align =   "center">
-  
-### 👨💻 Coding Profiles
-
-</div>
-
-<br><br>
+<br>
 
 <div align="center">
 
