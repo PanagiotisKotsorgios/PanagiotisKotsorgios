@@ -19,7 +19,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
 _"What I cannot create, I do not understand" - Richard Feynman_  
 
