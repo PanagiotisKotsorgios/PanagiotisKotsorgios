@@ -19,9 +19,18 @@
 
 <br>
 
+<div align="center">
+
+_"What I cannot create, I do not understand" - Richard Feynman_  
 
 
+<img src = "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/07/2024-richard-feynman-767x410-1.png">
+</div>
 
+
+<br>
+
+---
 
 
 ### 📫 How to Reach Me  
@@ -30,22 +39,10 @@
 
 
 
----
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PanagiotisKotsorgios&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<br>
-
-<div align="center">
-
-_"What I cannot create, I do not understand" - Richard Feynman_  
 
 
-<img src = "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/07/2024-richard-feynman-767x410-1.png">
-</div>
 
 
 
