@@ -1,46 +1,7 @@
-# 👾 Hello, I’m Panagiotis  
+# My Project
 
----
+[![Email](https://img.shields.io/badge/Email-PanagiotisKotsorgios%40gmail.com-blue)](mailto:PanagiotisKotsorgios@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel%20Name-red?style=flat-square)](https://www.youtube.com/channel/ChannelID)
 
-
-<div align="left">
-
-<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQxN3B1c2d6a3pmczZyamozZzB5MjhvOXpwM3B5ZGlscGVnZ3I1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAmKaqr4xMuUE/giphy.gif">
-
-<br>
-
-> 
-> **Beneath this mask there is more than flesh.**  
-> **Beneath this mask there is an idea, Mr. Creedy.**  
-> **And ideas are bulletproof.🔥**
-> 
-
-</div>
-
-<br>
-
-<div align="left">
-
-_"What I cannot create, I do not understand" - Richard Feynman_  
-
-</div>
-
-
-<br>
-
----
-
-
-### 📫 How to Reach Me  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pkotsorgios654@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
+## Description
+This is my project description.
