@@ -29,9 +29,9 @@ _"What I cannot create, I do not understand" - Richard Feynman_
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Project Alpha** | A comprehensive web application showcasing modern development practices and clean architecture patterns. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
-| **Project Beta** | Full-stack solution with advanced features and optimized performance metrics. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
-| **Project Gamma** | Innovative tool designed to solve real-world problems with elegant and efficient code. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
+| **SafeSocket App** | A comprehensive web application showcasing modern development practices and clean architecture patterns. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
+| **ACME PHP Library** | Full-stack solution with advanced features and optimized performance metrics. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
+| **Open gplms** | Innovative tool designed to solve real-world problems with elegant and efficient code. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
 
 ---
 
