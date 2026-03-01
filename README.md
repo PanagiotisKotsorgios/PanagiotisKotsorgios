@@ -9,7 +9,7 @@
 > 
 > **Beneath this mask there is more than flesh.**  
 > **Beneath this mask there is an idea, Mr. Creedy.**  
-> **And ideas are bulletproof.🔥**  
+> **And ideas are bulletproof.**  
 ></div>
 
 <br>
@@ -19,8 +19,6 @@
 _"What I cannot create, I do not understand" - Richard Feynman_  
 
 </div>
-
-<br>
 
 
 ### How to Reach Me  
