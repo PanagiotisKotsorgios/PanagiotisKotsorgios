@@ -23,8 +23,6 @@
 
 _"What I cannot create, I do not understand" - Richard Feynman_  
 
-
-<img src = "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/07/2024-richard-feynman-767x410-1.png">
 </div>
 
 
