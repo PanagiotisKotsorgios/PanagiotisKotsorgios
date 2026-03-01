@@ -27,6 +27,6 @@ _"What I cannot create, I do not understand" - Richard Feynman_
 
 ---
 
-### 📫 How to Reach Me  
+### How to Reach Me  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pkotsorgios654@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-pkotsorgios__code-red?logo=youtube)](https://www.youtube.com/@pkotsorgios_code)
