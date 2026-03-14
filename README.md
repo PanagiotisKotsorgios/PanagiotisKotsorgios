@@ -29,9 +29,9 @@ _"What I cannot create, I do not understand" - Richard Feynman_
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **SafeSocket App** | A cross-platform encrypted TCP socket chat & file transfer application. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
-| **ACME PHP Library** | Modular PHP 8.2+ security toolkit - CSRF, JWT, signed URLs, TOTP, RBAC, OAuth2 & audit logging with PSR-3/7/15 support. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
-| **openGPLMS** | A general purpose library management system for everyone to try out and enjoy. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
+| **SafeSocket App** | A cross-platform encrypted TCP socket chat & file transfer application. | [GitHub](https://github.com/PanagiotisKotsorgios/SafeSocket) • [Live Demo](https://www.pkotsorgios.gr) |
+| **ACME PHP Library** | Modular PHP 8.2+ security toolkit - CSRF, JWT, signed URLs, TOTP, RBAC, OAuth2 & audit logging with PSR-3/7/15 support. | [GitHub](https://github.com/PanagiotisKotsorgios/acme-security-kit) • [Live Demo](https://www.pkotsorgios.gr) |
+| **openGPLMS** | A general purpose library management system for everyone to try out and enjoy. | [GitHub](https://github.com/PanagiotisKotsorgios/openGPLMS) • [Live Demo](https://www.pkotsorgios.gr) |
 
 ---
 
