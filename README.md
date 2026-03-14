@@ -29,7 +29,7 @@ _"What I cannot create, I do not understand" - Richard Feynman_
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **SafeSocket App** | A comprehensive web application showcasing modern development practices and clean architecture patterns. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
+| **SafeSocket App** | A cross-platform encrypted TCP socket chat & file transfer application. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
 | **ACME PHP Library** | Full-stack solution with advanced features and optimized performance metrics. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
 | **openGPLMS** | Innovative tool designed to solve real-world problems with elegant and efficient code. | [GitHub](https://github.com) • [Live Demo](https://www.pkotsorgios.gr) |
 
