@@ -1,3 +1,18 @@
+<div align = "center">
+
+<img src = "https://mykalypsis.gr/kalypsis-logo.png?v=2026-11-02">
+
+<br>
+
+```diff
++ PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER
++ Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
++ Architecting enterprise platforms, business systems, and digital infrastructure.
++ KALYPSIS SOFTWARE SOLUTIONS | https://mykalypsis.gr
+```
+
+</div>
+
 ```yaml
 Panagiotis Kotsorgios @ KALYPSIS SOFTWARE SOLUTIONS ---------------------
 
@@ -21,13 +36,6 @@ Panagiotis Kotsorgios @ KALYPSIS SOFTWARE SOLUTIONS ---------------------
 
 ```
 
-
-```diff
-+ PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER
-+ Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
-+ Architecting enterprise platforms, business systems, and digital infrastructure.
-+ KALYPSIS SOFTWARE SOLUTIONS | https://mykalypsis.gr
-```
 
 ```diff
 - Engineering is about solving problems, not just writing code.
