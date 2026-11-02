@@ -9,7 +9,7 @@
 </div>
 
 
-<h1> PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER </h1>
+<h2> PANAGIOTIS KOTSORGIOS - LEAD SOFTWARE ENGINEER & FOUNDER </h2>
 
 ```diff
 + Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
