@@ -20,3 +20,8 @@ Panagiotis Kotsorgios @ KALYPSIS SOFTWARE SOLUTIONS ---------------------
   Email.Work: .............. info@mykalypsis.gr
 
 ```
+
+
+```diff
+- "Always learning. Always building. Always improving. Never settling."
+```
