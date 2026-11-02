@@ -8,8 +8,10 @@
 
 </div>
 
+
+<h1> PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER </h1>
+
 ```diff
-+ PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER
 + Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
 + Architecting enterprise platforms, business systems, and digital infrastructure.
 + KALYPSIS SOFTWARE SOLUTIONS | https://mykalypsis.gr
