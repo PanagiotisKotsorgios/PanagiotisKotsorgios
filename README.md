@@ -23,18 +23,4 @@ _"What I cannot create, I do not understand" - Richard Feynman_
 
 ### How to Reach Me  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pkotsorgios654@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-pkotsorgios__code-red?logo=youtube)](https://www.youtube.com/@pkotsorgios_code)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=firefox)](https://www.pkotsorgios.gr)  [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?logo=leetcode)](https://leetcode.com/u/Panagiotis_Kotsorgios/)
-
-
-### My Best Projects So Far
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **SafeSocket App** | A cross-platform encrypted TCP socket chat & file transfer application. | [GitHub](https://github.com/PanagiotisKotsorgios/SafeSocket) |
-| **ACME PHP Library** | Modular PHP 8.2+ security toolkit - CSRF, JWT, signed URLs, TOTP, RBAC, OAuth2 & audit logging with PSR-3/7/15 support. | [GitHub](https://github.com/PanagiotisKotsorgios/acme-security-kit) |
-| **openGPLMS** | A general purpose library management system for everyone to try out and enjoy. | [GitHub](https://github.com/PanagiotisKotsorgios/openGPLMS)  |
-
----
-
-### Currently Learning
-
-- Laravel Framework
+currently and alwayus learning 
