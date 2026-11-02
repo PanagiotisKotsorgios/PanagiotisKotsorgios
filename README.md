@@ -23,5 +23,15 @@ Panagiotis Kotsorgios @ KALYPSIS SOFTWARE SOLUTIONS ---------------------
 
 
 ```diff
-- "Always learning. Always building. Always improving. Never settling."
++ PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER
++ Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
++ Architecting enterprise platforms, business systems, and digital infrastructure.
++ KALYPSIS SOFTWARE SOLUTIONS | https://mykalypsis.gr
+```
+
+```diff
+- Engineering is about solving problems, not just writing code.
+- Every architectural decision should serve a clear purpose.
+- Reliability, maintainability, and security are non-negotiable.
+- Great software is measured by the value it delivers.
 ```
