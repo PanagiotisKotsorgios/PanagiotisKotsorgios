@@ -4,6 +4,10 @@
 
 <br>
 
+
+
+</div>
+
 ```diff
 + PANAGIOTIS KOTSORGIOS | SOFTWARE ENGINEER & FOUNDER
 + Leading the engineering and technical direction of KALYPSIS SOFTWARE SOLUTIONS.
@@ -11,7 +15,6 @@
 + KALYPSIS SOFTWARE SOLUTIONS | https://mykalypsis.gr
 ```
 
-</div>
 
 ```yaml
 Panagiotis Kotsorgios @ KALYPSIS SOFTWARE SOLUTIONS ---------------------
